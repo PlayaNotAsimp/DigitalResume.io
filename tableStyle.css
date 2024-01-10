@@ -1,0 +1,33 @@
+
+table {
+    margin: 0 auto;
+}
+
+
+.centered-text {
+    text-align: center;
+}
+
+
+.myColumnFormat {
+    width: 150px;
+}
+
+
+th {
+    background-color: #0073e6;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+
+td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
